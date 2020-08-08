@@ -1,0 +1,19 @@
+{
+  "name": "employee_directory",
+  "version": "1.0.0",
+  "description": "Creating an employee directory using REACT.  * As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarita87das/Employee_Directory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarita87das/Employee_Directory/issues"
+  },
+  "homepage": "https://github.com/sarita87das/Employee_Directory#readme"
+}
