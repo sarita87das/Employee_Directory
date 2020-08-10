@@ -11,8 +11,8 @@ class SearchResultContainer extends Component {
     filter: "",
     filterBy: "lastName",
     currentSort: "default",
-    sortField: ""
-
+   sortField: ""
+    // order: "descend"
   };
 
   // When this component mounts, search the Giphy API for pictures of kittens
