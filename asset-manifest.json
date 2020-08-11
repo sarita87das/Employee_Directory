@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sarita87das/Employee_Directory/static/css/main.0cb898ac.chunk.css",
+    "main.js": "/sarita87das/Employee_Directory/static/js/main.62389f98.chunk.js",
+    "main.js.map": "/sarita87das/Employee_Directory/static/js/main.62389f98.chunk.js.map",
+    "runtime-main.js": "/sarita87das/Employee_Directory/static/js/runtime-main.7da62da7.js",
+    "runtime-main.js.map": "/sarita87das/Employee_Directory/static/js/runtime-main.7da62da7.js.map",
+    "static/js/2.c1e8bf86.chunk.js": "/sarita87das/Employee_Directory/static/js/2.c1e8bf86.chunk.js",
+    "static/js/2.c1e8bf86.chunk.js.map": "/sarita87das/Employee_Directory/static/js/2.c1e8bf86.chunk.js.map",
+    "index.html": "/sarita87das/Employee_Directory/index.html",
+    "precache-manifest.5c77883cb674a839f03909e980a95a0a.js": "/sarita87das/Employee_Directory/precache-manifest.5c77883cb674a839f03909e980a95a0a.js",
+    "service-worker.js": "/sarita87das/Employee_Directory/service-worker.js",
+    "static/css/main.0cb898ac.chunk.css.map": "/sarita87das/Employee_Directory/static/css/main.0cb898ac.chunk.css.map",
+    "static/js/2.c1e8bf86.chunk.js.LICENSE.txt": "/sarita87das/Employee_Directory/static/js/2.c1e8bf86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7da62da7.js",
+    "static/js/2.c1e8bf86.chunk.js",
+    "static/css/main.0cb898ac.chunk.css",
+    "static/js/main.62389f98.chunk.js"
+  ]
+}
